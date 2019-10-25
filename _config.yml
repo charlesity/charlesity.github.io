@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles Isah Saidu / Site Title"
+title                    : "Charles Isah Saidu"
 title_separator          : "-"
 name                     : &name "Charles I Saidu"
 description              : &description "Research in AI/ML, Software Developer and Lecturer"
