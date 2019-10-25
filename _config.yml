@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Charles Isah Saidu"
 title_separator          : "-"
-name                     : "Charles I. Saidu"
+name                     : &name
 description              : "Research in AI/ML, Software Developer and Lecturer"
 url                      : https://charlesity.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
