@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Charles I. Saidu's personal website"
+title: "Charles I. Saidu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
