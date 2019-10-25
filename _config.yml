@@ -57,8 +57,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
+  username               : @charlesity
+facebook: 
   username               :
   app_id                 :
   publisher              :
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Charles I. Saidu"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Abuja, Nigeria"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "charlesity"
   google_plus      :
   keybase          :
   instagram        :
