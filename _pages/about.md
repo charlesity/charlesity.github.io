@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 ## About me (Education Background)
-I am a Computer Science interested in AI/ML researches and Enterprise software development projects/research. I have a Bachelor's of Technology Degree and Masters Degree in Computer Science. At the moment, I working towards concluding my PhD in Artificial Intelligence/Machine learning with a focus on using Active Machine Learning paradimn in Medical Image Processing.
+I am a Computer Science with in AI/ML researches and enterprise software development projects/research. I have a Bachelor's of technology degree and Masters degree in computer science (federal university of Technology and Ahmadu Bello university, respectively). At the moment, I working towards concluding my PhD in artificial Intelligence/machine learning - the research is on using active machine learning paradigm in medical image processing, at the African university of science and technology, (aust.edu.ng)
 
 ## About me (Career)
-I currently work as a Faculty member in the Department of Computer Science at Baze University, as well as a consultant in software development and AI related projects. Prior to that I worked with Bingham University as a faculty member and I have done a few projects off and on the educational space.
+My research spans probabilistic parametric/non-parametric models - (e.g, Bayesian NN, gaussian processes), active learning and software designs.
+I currently work as a faculty member in the department of computer science at Baze University, Abuja, where I do research and teach topics relating to Machine learning, algorithms and complexity, optimization, distributed systems and computing programming in various sequential and parallel programming languages. I also provide expert knowledge via consultancy in software development and AI related projects. Prior to that I worked with Bingham university as a faculty member and I have done a few projects on and off the educational space.
 
 ## About me (Leisure)
-I love music so I find it relaxing to listen to good music and also play a few instruments. I would also say that I see coding and doing a few mathematics as relaxing so you might find me doing these as a form of relaxation.
+I love music so I find it relaxing to listen to good music and also play a few musical instruments. I would also say that I see coding and doing a few mathematics  relaxing so you might find me doing these as a form of relaxation.
