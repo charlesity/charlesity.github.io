@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About me (Education Background)
-I am a computer scientist with interests in AI/ML and enterprise software development projects/research. I have a Bachelor's of technology and a Masters degree in computer science (at The Federal University of Technology, Yola and Ahmadu Bello University, respectively). At the moment, I am working towards concluding my PhD in Artificial Intelligence/machine learning at the African University of Science and Technology, (aust.edu.ng). The research is on using active learning machine learning paradigmn in medical image processing.
+I am a computer scientist doing research in AI/ML. I am also interested in enterprise software development. I have a Bachelor's of technology, a Masters degree and a Ph.D all in computer science. 
 
 ## About me (Career)
 My research spans probabilistic parametric/non-parametric models - (e.g, Bayesian DNN, Gaussian processes), Active learning and Software designs.
