@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Charles I. Saidu"
+title: "Isah Charles Saidu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
