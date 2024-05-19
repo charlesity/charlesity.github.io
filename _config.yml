@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles Isah Saidu"
+title                    : "Isah (Charles) Saidu"
 title_separator          : "-"
-name                     : &name "Charles I. Saidu"
+name                     : &name "Isah (Charles) Saidu"
 description              : &description "Research in AI/ML, Lecturer and Software Developer"
 url                      : https://charlesity.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Charles I. Saidu"
+  name             : "Isah (Charles) Saidu"
   avatar           : "my_pic.jpg"
   bio              : "Computer Scientist"
   location         : "Abuja, Nigeria"
